@@ -9,3 +9,5 @@ let personpiper : boolean = false
 console.log(x==y)
 console.log(x>y)
 console.log(x<=y)
+
+
